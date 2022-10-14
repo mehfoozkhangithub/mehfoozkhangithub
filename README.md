@@ -32,3 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&show_icons=true&locale=en" alt="mehfoozkhangithub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&" alt="mehfoozkhangithub" /></p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
