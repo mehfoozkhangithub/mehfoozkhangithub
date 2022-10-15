@@ -33,6 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&" alt="mehfoozkhangithub" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehfoozkhangithub)  
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
