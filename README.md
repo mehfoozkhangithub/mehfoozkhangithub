@@ -38,7 +38,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehfoozkhangithub)  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
+  <a href="https://www.linkedin.com/in/mehfoozkhan51"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
