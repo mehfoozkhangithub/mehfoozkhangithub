@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mehfooz khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+</div>
+
 
 - 🌱 I’m currently learning **react,advance java script**
 
