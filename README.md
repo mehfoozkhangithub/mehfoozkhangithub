@@ -45,14 +45,14 @@
 <br/>
 </p>
 
-<a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehfoozkhangithub&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub"  /></a>
+<a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehfoozkhangithub&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&#gh-dark-mode-only" alt="mehfoozkhangithub"  /></a>
 
-<a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&show_icons=true&locale=en&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a>
+<a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&show_icons=true&locale=en&theme=github_dark&hide_border=true&#gh-dark-mode-only" alt="mehfoozkhangithub" /></a>
 
-<a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a>
+<a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=github_dark&hide_border=true&#gh-dark-mode-only" alt="mehfoozkhangithub" /></a>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=github_dark&hide_border=true&#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehfoozkhangithub)  
