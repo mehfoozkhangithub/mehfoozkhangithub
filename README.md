@@ -51,9 +51,7 @@
 
 <a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a>
 
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
-
+<a href="https://github.com/fernvenue#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehfoozkhangithub)  
 
