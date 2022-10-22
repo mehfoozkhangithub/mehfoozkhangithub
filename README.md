@@ -57,7 +57,7 @@
 
 <a href="https://github.com/fernvenue#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehfoozkhangithub)  
+[![Abhijeet's's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mehfoozkhangithub&&theme=xcode)](https://github.com/mehfoozkhangithub)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mehfoozkhan51"> 
