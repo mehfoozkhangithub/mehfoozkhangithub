@@ -49,9 +49,13 @@
 
 <a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&show_icons=true&locale=en&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a>
 
-<a href="https://github.com/fernvenue#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a>
+ <p align="left">
+    <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mehfoozkhangithub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>   
 
-<a href="https://github.com/fernvenue#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
+<a href="https://github.com/fernvenue#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehfoozkhangithub)  
 
@@ -67,3 +71,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehfoozkhangithub&label=Profile%20views&color=0e75b6&style=flat" alt="mehfoozkhangithub" /> </p>
+
+
+    
