@@ -45,7 +45,7 @@
 <br/>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/fernvenue#gh-dark-mode-only"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mehfoozkhangithub&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&#gh-dark-mode-only" alt="mehfoozkhangithub"  /></a>
  </p>
 
@@ -54,7 +54,7 @@
 <a href="https://github.com/fernvenue#gh-dark-mode-only"><img  src="https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&show_icons=true&locale=en&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="mehfoozkhangithub" /></a>
  </p>
 
- <p align="left">
+ <p align="center">
     <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mehfoozkhangithub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
