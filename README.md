@@ -43,7 +43,7 @@
 <br/>
 </p>
 
-# Favirote `VSCODE` **Theme** 
+# Favourite `VSCODE` **Theme** 
 
 <table>
  <tr>
