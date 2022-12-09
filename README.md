@@ -43,6 +43,28 @@
 <br/>
 </p>
 
+# Favirote `VSCODE` **Theme** 
+
+<table>
+ <tr>
+  <td>
+  <img src="https://raw.githubusercontent.com/silofy/hackthebox/master/static/hero.png"/>
+   <p>
+    Hackthebox
+   </p>
+  </td>
+  <td>
+  <img src="https://github.com/mehfoozkhangithub/Masai-Revision/blob/main/assets/Screenshot_20221209_073637.png?raw=true"/>
+    <p>
+    Cobalt 2
+   </p>
+  </td>
+ </tr>
+ 
+ 
+ </table>
+
+
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,7 +76,8 @@
 
 <a href="https://github.com/fernvenue#gh-dark-mode-only"><img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
 
-[![Abhijeet's's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mehfoozkhangithub&&theme=xcode)](https://github.com/mehfoozkhangithub)
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mehfoozkhangithub&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 <div align="center">
