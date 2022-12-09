@@ -77,7 +77,7 @@
 <a href="https://github.com/fernvenue#gh-dark-mode-only"><img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
 
 
- [![mehfoozkhan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mehfoozkhangithub&theme=dracula)](https://github.com/mehfoozkhangithub/github-readme-activity-graph)
+ [![mehfoozkhan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mehfoozkhangithub&theme=dracula)]
  
 </div>
 <div align="center">
