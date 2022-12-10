@@ -67,7 +67,7 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
  
  ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&theme=dark&show_icons=true)
 
