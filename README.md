@@ -4,7 +4,7 @@
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
-<h2 align="center">A self-taught passionate Full Stack web developer developer from India, who cares about the code and the people, currently working at Masai School as an Instructional Associate. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</h2>
+<h2 align="center">A self-taught passionate Full Stack web developer developer from India, who cares about the code and the people. I'm capable of writing production-ready code using React.js, Redux.js, and CSS on the Front-end, and Node.js and Express.js on the Backend to build single-page applications</h2>
 
 
 - 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
