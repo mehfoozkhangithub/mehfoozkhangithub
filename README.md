@@ -64,6 +64,11 @@
  
  </table>
 
+<p align="center">
+    <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
+    </a>
+</p>
 
 <div align="center">
   
