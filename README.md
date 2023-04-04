@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **react, redux, mongo-db, node.js,express.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mehfoozkhangithub?tab=repositories](https://github.com/mehfoozkhangithub?tab=repositories)
+- 👨‍💻 All of my projects are available at ***[click me](https://github.com/mehfoozkhangithub?tab=repositories)***
 
 - 💬 Ask me about **react / java script / redux**
 
-- 📄 Know about my experiences **[(Resume Here)](https://drive.google.com/file/d/1nPydsH5DvlAsYVoVtmWWkB6gsj-mblb9/view?usp=share_link)**
+- 📄 Know about my experiences ***[(Resume Here)](https://drive.google.com/file/d/1nPydsH5DvlAsYVoVtmWWkB6gsj-mblb9/view?usp=share_link)***
 
-- 📫 How to reach me **mehfoozshaikh51@gmail.com**
+- 📫 How to reach me ***mehfoozshaikh51@gmail.com***
 
-- ⚡ Fun fact **knowledge is a key**
+- ⚡ Fun fact ***knowledge is a key***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
