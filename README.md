@@ -97,7 +97,7 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehfoozkhangithub&label=Profile%20views&color=0e75b6&style=flat" alt="mehfoozkhangithub" /> </p>
+[![](https://visitcount.itsvg.in/api?id=mehfoozkhangithub&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
     
