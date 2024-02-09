@@ -40,7 +40,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
  <img alt="Redux" src="https://img.shields.io/badge/Redux-764abc?logo=Redux&logoColor=white&style=for-the-badge" />
- <img alt="Tailwind" src="https://img.shields.io/badge/Redux-764abc?logo=tailwind&logoColor=white&style=for-the-badge" />
+
 
 <br/>
 </p>
