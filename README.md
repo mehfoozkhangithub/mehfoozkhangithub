@@ -84,9 +84,10 @@
 
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
 
+<p align="center"> 
+  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
+</p>
 
- [![mehfoozkhan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mehfoozkhangithub&theme=dracula)](https://github.com/mehfoozkhangithub)
- 
 </div>
 <div align="center">
  <picture>
