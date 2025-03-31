@@ -63,32 +63,43 @@
    </p>
   </td>
  </tr>
- 
- 
  </table>
 
-<p align="center">
+<table>
+ <tr>
+  <td>
+   <p align="center">
     <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
     </a>
 </p>
+  
+  </td>
+  <td>
+   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
+  </td>
+  <td>
+   
+   ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&theme=dark&show_icons=true)
+   </td>
+ </tr>
+</table>
+ 
+
+
 
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
  
- ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&theme=dark&show_icons=true)
+ 
 
-
-
-
-<img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" /></a> 
+<img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" />
 
 <p align="center"> 
   <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
 </p>
-
 </div>
+
 <div align="center">
  <picture>
   <source
