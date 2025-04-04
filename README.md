@@ -61,13 +61,13 @@
  <tr>
   <td>
   <img src="https://raw.githubusercontent.com/silofy/hackthebox/master/static/hero.png"/>
-   <p>
+   <p align="center">
     Hackthebox
    </p>
   </td>
   <td>
   <img src="https://github.com/mehfoozkhangithub/Masai-Revision/blob/main/assets/Screenshot_20221209_073637.png?raw=true"/>
-    <p>
+    <p align="center">
     Cobalt 2
    </p>
   </td>
