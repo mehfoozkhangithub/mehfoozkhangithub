@@ -50,6 +50,7 @@
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)"/>
+ <img src="https://img.shields.io/badge/Typescript.js-white?style=for-the-badge&logo=typescript&logoColor=white)"/>
 
 
 <br/>
