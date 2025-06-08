@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences ***[(Resume Here)](https://drive.google.com/file/d/1nPydsH5DvlAsYVoVtmWWkB6gsj-mblb9/view?usp=share_link)***
 
-- 📫 How to reach me ***mehfoozshaikh51@gmail.com***
+- 📫 How to reach me ***mehfoozkhan786002@gmail.com***
 
 - ⚡ Fun fact ***knowledge is a key***
 
