@@ -51,8 +51,8 @@
  <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens"/>
 <!--  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/> -->
 <!--  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)"/> -->
- <img src="https://img.shields.io/badge/Express.js-black?style=plastic&logo=express&logoColor=white)"/>
  <img  src="https://img.shields.io/badge/Typescript.js-white?style=plastic&logo=typescript&logoColor=white)"/>
+ <img src="https://img.shields.io/badge/Express.js-black?style=plastic&logo=express&logoColor=white)"/>
 
 
 <br/>
