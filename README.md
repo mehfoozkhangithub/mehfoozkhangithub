@@ -104,8 +104,10 @@
 <div align="center">
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" />
 </div>
+<br/>
+<br/>
 
-<table style="margin: 10px 0;">
+<table >
 <tr>
 <th>
  <p> 
