@@ -105,7 +105,6 @@
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" />
 </div>
 <br/>
-<br/>
 
 <table >
 <tr>
@@ -133,7 +132,7 @@
 </tr>
 </table>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
+<br/>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
