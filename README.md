@@ -106,9 +106,13 @@
 </div>
 
 <table>
- <p align="center"> 
+<tr>
+<th>
+ <p> 
   <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
 </p>
+</th>
+<th>
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -123,6 +127,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</th>
+</tr>
 </table>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
