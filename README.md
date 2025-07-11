@@ -102,17 +102,13 @@
 
 
 <div align="center">
- 
- 
-
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=mehfoozkhangithub&theme=juicyfresh&theme=github_dark&hide_border=true&bg_color=0D1117#gh-dark-mode-only" alt="mehfoozkhangithub" />
-
-<p align="center"> 
-  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
-</p>
 </div>
 
-<div align="center">
+<table>
+ <p align="center"> 
+  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
+</p>
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -127,7 +123,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-</div>
+</table>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
