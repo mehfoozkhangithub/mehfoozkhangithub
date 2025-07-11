@@ -109,7 +109,7 @@
 <tr>
 <th>
  <p> 
-  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="70%" height="70%" />
+  <img src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif?raw=true" alt="Sample signal" width="100%" height="100%" />
 </p>
 </th>
 <th>
